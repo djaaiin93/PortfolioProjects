@@ -1,3 +1,5 @@
+[⏪ Back](./)
+
 # Data Story: Predicting Absenteeism from Work
 
 ## Introduction
@@ -36,7 +38,7 @@ Some of the key learnings from this project were:
 Age:
 Individuals below the age of 40 exhibit an average probability of experiencing excessive absenteeism of less than 50%. Notably, there is only a 28% chance that a person aged 30 would be excessively absent, emphasizing a decreasing trend in absenteeism probability with decreasing age.
 
-![1](./assets/Age vs Probability.png)
+![1](assets/Age vs Probability.png)
 
 Reasons:
 Employees citing Reason 1, associated with very serious diseases, demonstrate a higher likelihood of being excessively absent. Conversely, Reason 3 reveals very few observations, limiting its informative value regarding excessive absenteeism. Those attributing their absence to Reason 4, encompassing lighter reasons like dental appointments and physiotherapy, are less likely to experience excessive absenteeism.
