@@ -1,6 +1,6 @@
 [⏪ Back](./)
 
-# Data Story: Predicting Absenteeism from Work
+# Data Story: Predicting Absenteeism from Work [Notebook](./Absenteeism_Final.ipynb)
 
 ## Introduction
 
@@ -43,8 +43,13 @@ Individuals below the age of 40 exhibit an average probability of experiencing e
 Reasons:
 Employees citing Reason 1, associated with very serious diseases, demonstrate a higher likelihood of being excessively absent. Conversely, Reason 3 reveals very few observations, limiting its informative value regarding excessive absenteeism. Those attributing their absence to Reason 4, encompassing lighter reasons like dental appointments and physiotherapy, are less likely to experience excessive absenteeism.
 
+![2](./assets/images/reasonsvsprobability.png)
+
 Transportation Expense and Children:
 Individuals without children do not show a significant probability of excessive absenteeism, possibly influenced by their lower transportation expenses, indicative of a potential inclination to reside closer to their workplace. Among those with one child, most exhibit an average transportation expense falling between 220-240 per month, with the majority having transportation expenses below 240 per month. This suggests a nuanced relationship between the number of children and transportation expenses concerning absenteeism probability.
+
+![3](./assets/images/transportationexpenseschildren.png)
+
 This project provides insights into absenteeism prediction using logistic regression. The model can be a valuable tool for organizations to identify potential excessive absenteeism and take proactive measures.
 
 By leveraging known reasons for absence, the model contributes to a more informed and data-driven approach to workforce management. Further refinements and extensions of the model can enhance its predictive power, supporting better decision-making in the workplace
