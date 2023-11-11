@@ -4,11 +4,12 @@
 
 [<img src="./assets/images/Employee-Absenteeism.jpg" width="150" />](./Absenteeism.md)
 
-This project focuses on predicting absenteeism from work by leveraging data analysis and machine learning techniques.  
-The objective is to explore whether specific known reasons for absence can serve as indicators of excessive absenteeism.
+**Central Challenge:**  
+The primary challenge addressed in this project is to explore whether specific known reasons for absence can be predictive of excessive absenteeism from work. The goal is to develop a model that can help organizations identify patterns and factors contributing to absenteeism, ultimately supporting proactive measures for workforce management.
 
-The dataset, initially containing information such as transportation expense, distance to work, age, and reason for absence, undergoes thorough preprocessing and feature engineering.  
-The key steps involve encoding reasons for absence, extracting temporal features, and creating a target variable indicating excessive absenteeism.  
-A logistic regression model is trained on the preprocessed data, and its performance is evaluated.  
-The project aims to provide insights into the factors influencing absenteeism, ultimately contributing to a more informed and predictive approach to workforce management.  
-The resulting model and associated scaler are saved for future use, enabling the seamless application of the predictive model to new data. 
+**Analytical Strategy:**  
+The analytical strategy revolves around leveraging logistic regression to build a predictive model. The dataset is preprocessed and engineered to enhance the features used in the model. Key steps include encoding reasons for absence, extracting temporal features, and defining a target variable for excessive absenteeism. A custom scaler is applied to standardize the input features, and the dataset is split into training and testing sets.
+
+The logistic regression model is trained on the training set and evaluated on the test set to assess its predictive performance. Coefficients are analyzed to understand the influence of each feature on absenteeism. The trained model is then saved for future use, and a dedicated class is created for easy loading, cleaning, and making predictions on new data.
+
+This analytical strategy allows for a comprehensive exploration of the dataset, feature engineering to enhance model performance, and the application of a logistic regression model to predict absenteeism based on known reasons. The outcome is a practical tool that organizations can utilize to gain insights into potential excessive absenteeism and make informed decisions for workforce planning and management.
