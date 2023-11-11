@@ -36,17 +36,17 @@ We create an Absenteeism Model class for easy loading, cleaning, and making pred
 ### Conclusion
 
 Some of the key learnings from this project were:
-**Age:**
+**Age:**  
 Individuals below the age of 40 exhibit an average probability of experiencing excessive absenteeism of less than 50%. Notably, there is only a 28% chance that a person aged 30 would be excessively absent, emphasizing a decreasing trend in absenteeism probability with decreasing age.
 
 ![1](./assets/images/agevsprobability.png)
 
-**Reasons:**
+**Reasons:**  
 Employees citing Reason 1, associated with very serious diseases, demonstrate a higher likelihood of being excessively absent. Conversely, Reason 3 reveals very few observations, limiting its informative value regarding excessive absenteeism. Those attributing their absence to Reason 4, encompassing lighter reasons like dental appointments and physiotherapy, are less likely to experience excessive absenteeism.
 
 ![2](./assets/images/reasonsvsprobability.png)
 
-**Transportation Expense and Children:**
+**Transportation Expense and Children:**  
 Individuals without children do not show a significant probability of excessive absenteeism, possibly influenced by their lower transportation expenses, indicative of a potential inclination to reside closer to their workplace. Among those with one child, most exhibit an average transportation expense falling between 220-240 per month, with the majority having transportation expenses below 240 per month. This suggests a nuanced relationship between the number of children and transportation expenses concerning absenteeism probability.
 
 ![3](./assets/images/transportationexpensechildren.png)
