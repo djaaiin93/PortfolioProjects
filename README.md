@@ -2,6 +2,8 @@
 
 ## [Predicting Absenteeism from work](./Absenteeism.md)
 
+[<img src="./assets/images/Employee-Absenteeism.jpg" width="150" />](./Absenteeism.md)
+
 This project focuses on predicting absenteeism from work by leveraging data analysis and machine learning techniques.  
 The objective is to explore whether specific known reasons for absence can serve as indicators of excessive absenteeism.
 
