@@ -35,7 +35,7 @@ We create an Absenteeism Model class for easy loading, cleaning, and making pred
 
 ### Conclusion
 
-Some of the key learnings from this project were:
+Some of the key learnings from this project were:  
 **Age:**  
 Individuals below the age of 40 exhibit an average probability of experiencing excessive absenteeism of less than 50%. Notably, there is only a 28% chance that a person aged 30 would be excessively absent, emphasizing a decreasing trend in absenteeism probability with decreasing age.
 
