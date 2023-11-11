@@ -6,6 +6,7 @@
 
 Workplace absenteeism is a significant concern for organizations, affecting productivity and overall efficiency. In this project, we aim to explore whether specific known reasons for absence can predict excessive absenteeism from work. The analysis involves preprocessing data, exploring key features, and building a predictive model using logistic regression.
 
+## [Link to Notebook](./Absenteeism_Final.ipynb)
 ## Data Exploration
 
 We start by loading the raw data from 'Absenteeism_data.csv' and inspecting the initial records.
@@ -53,3 +54,5 @@ Individuals without children do not show a significant probability of excessive 
 This project provides insights into absenteeism prediction using logistic regression. The model can be a valuable tool for organizations to identify potential excessive absenteeism and take proactive measures.
 
 By leveraging known reasons for absence, the model contributes to a more informed and data-driven approach to workforce management. Further refinements and extensions of the model can enhance its predictive power, supporting better decision-making in the workplace
+
+[⏪ Back](./)
