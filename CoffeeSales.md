@@ -30,4 +30,4 @@ I synthesized these insightful visualizations into a comprehensive Excel dashboa
 ![1](./assets/images/coffeedashboard.png)
 
 ## Conclusion
-This Excel dashboard serves as a powerful tool for stakeholders to grasp nuanced insights into coffee sales. By visually representing sales trends, regional preferences, and customer behavior, it enables data-driven decision-making for marketing strategies, inventory management, and customer engagement initiatives in the coffee business. The project's use of Excel's functionalities demonstrates the potential for leveraging familiar tools to derive actionable insights from complex datasets.
+This Excel dashboard serves as a powerful tool for stakeholders to grasp nuanced insights into coffee sales. By visually representing sales trends, regional preferences, and customer behavior, it enables data-driven decision-making for marketing strategies, inventory management, and customer engagement initiatives in the coffee business.
