@@ -1,6 +1,4 @@
-## [Analyzing Coffee Sales- Excel Dashboard](https://georgiancollege-my.sharepoint.com/personal/200552672_student_georgianc_on_ca/_layouts/15/Doc.aspx?sourcedoc={dc3b9a04-9b9f-40c7-a4dd-3bb4dce2295b}&action=embedview&AllowTyping=True&ActiveCell='Dashboard'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
-
-# Project Title: Analyzing Coffee Sales - Excel Dashboard
+# [Analyzing Coffee Sales- Excel Dashboard](https://georgiancollege-my.sharepoint.com/personal/200552672_student_georgianc_on_ca/_layouts/15/Doc.aspx?sourcedoc={dc3b9a04-9b9f-40c7-a4dd-3bb4dce2295b}&action=embedview&AllowTyping=True&ActiveCell='Dashboard'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
 
 ## Introduction
 In this project, I delved into the world of coffee sales, leveraging Excel's functionalities to derive insights and visualize trends from a comprehensive dataset. By importing and manipulating data, creating pivot tables, and designing a dashboard, I aimed to uncover patterns and key factors influencing coffee sales.
