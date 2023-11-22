@@ -6,6 +6,10 @@
 ## [Predicting Absenteeism from work](./absenteeism.md)
 [<img src="./assets/images/Employee-Absenteeism.jpg" width="150" />](./absenteeism.md)
 
+### [Link to Notebook](./Absenteeism_Final.ipynb)
+### [Link to Tableau Dashboard](https://public.tableau.com/app/profile/divyansh.jain6314/viz/AbsenteeismDashboard_16996027924110/AbsenteeismDashboard)
+
+
 **Central Challenge:**  
 The primary challenge addressed in this project is to explore whether specific known reasons for absence can be predictive of excessive absenteeism from work. The goal is to develop a model that can help organizations identify patterns and factors contributing to absenteeism, ultimately supporting proactive measures for workforce management.
 
