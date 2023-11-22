@@ -1,5 +1,8 @@
 # PortfolioProjects
 
+## [Coffee Sales Analysis with Microsoft Excel](./CoffeeSales.md)
+
+
 ## [Predicting Absenteeism from work](./Absenteeism.md)
 
 [<img src="./assets/images/Employee-Absenteeism.jpg" width="150" />](./Absenteeism.md)
