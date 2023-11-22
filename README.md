@@ -2,6 +2,7 @@
 
 ## [Coffee Sales Analysis with Microsoft Excel](./CoffeeSales.md)
 [<img src="./assets/images/coffee.jpg" width="150" />](./CoffeeSales.md)
+  
 ###[Link to Excel Dashboard](https://georgiancollege-my.sharepoint.com/personal/200552672_student_georgianc_on_ca/_layouts/15/Doc.aspx?sourcedoc={dc3b9a04-9b9f-40c7-a4dd-3bb4dce2295b}&action=embedview&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
 
 ### Objective
