@@ -3,8 +3,8 @@
 ## [Coffee Sales Analysis with Microsoft Excel](./CoffeeSales.md)
 [<img src="./assets/images/coffee.jpg" width="150" />](./CoffeeSales.md)
 
-## [Predicting Absenteeism from work](./Absenteeism.md)
-[<img src="./assets/images/Employee-Absenteeism.jpg" width="150" />](./Absenteeism.md)
+## [Predicting Absenteeism from work](./absenteeism.md)
+[<img src="./assets/images/Employee-Absenteeism.jpg" width="150" />](./absenteeism.md)
 
 **Central Challenge:**  
 The primary challenge addressed in this project is to explore whether specific known reasons for absence can be predictive of excessive absenteeism from work. The goal is to develop a model that can help organizations identify patterns and factors contributing to absenteeism, ultimately supporting proactive measures for workforce management.
