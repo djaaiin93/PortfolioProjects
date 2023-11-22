@@ -1,9 +1,9 @@
-# [Analyzing Coffee Sales- Excel Dashboard](https://georgiancollege-my.sharepoint.com/personal/200552672_student_georgianc_on_ca/_layouts/15/Doc.aspx?sourcedoc={dc3b9a04-9b9f-40c7-a4dd-3bb4dce2295b}&action=embedview&AllowTyping=True&ActiveCell='Dashboard'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
+# [Analyzing Coffee Sales- Excel Dashboard](https://1drv.ms/x/s!At-IyApyKjDLbOI1SX85VkTJqE8?e=8i18eX)
 
 ## Introduction
 In this project, I delved into the world of coffee sales, leveraging Excel's functionalities to derive insights and visualize trends from a comprehensive dataset. By importing and manipulating data, creating pivot tables, and designing a dashboard, I aimed to uncover patterns and key factors influencing coffee sales.
 
-[Link to Dashboard](https://georgiancollege-my.sharepoint.com/personal/200552672_student_georgianc_on_ca/_layouts/15/Doc.aspx?sourcedoc={dc3b9a04-9b9f-40c7-a4dd-3bb4dce2295b}&action=embedview&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
+[Link to Dashboard](https://1drv.ms/x/s!At-IyApyKjDLbOI1SX85VkTJqE8?e=8i18eX)
 
 ## Dataset Import and Data Preparation
 I started by importing a dataset into Excel, containing information about orders, customers, products, and sales. Using Excel functions like XLOOKUP and INDEX, I integrated data from customers and product tables into the orders table, creating a consolidated view for analysis. This process ensured a cohesive dataset for further exploration.
