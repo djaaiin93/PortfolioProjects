@@ -32,6 +32,8 @@ We evaluate the model's performance on the test set and analyze the coefficients
 ### Predictions
 
 We create an Absenteeism Model class for easy loading, cleaning, and making predictions. The model is applied to new data from 'Absenteeism_new_data.csv,' and the predictions are saved.
+The results are then imported in Tableau and a dashboard is prepared to present key learnings.
+#### [Link to Tableau Dashboard](https://public.tableau.com/app/profile/divyansh.jain6314/viz/AbsenteeismDashboard_16996027924110/AbsenteeismDashboard)
 
 ### Conclusion
 
