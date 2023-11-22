@@ -20,12 +20,14 @@ I conducted a thorough check for duplicates within the dataset, ensuring data in
 3. **Loyalty Card and Size vs. Average Sales:**  
    A pivot table highlighted the relationship between loyalty card usage, coffee size, and average sales, offering insights into customer behavior and preferences.
 
-## [Dashboard Creation]
+## Dashboard Creation
 I synthesized these insightful visualizations into a comprehensive Excel dashboard:
 
 - **Visual Appeal:** Formatted the visuals to enhance readability and visual appeal, employing color schemes and appropriate formatting techniques.
 - **Interactive Elements:** Integrated filters using timelines for order dates and slicers for coffee size, roast type, country, and loyalty card status. These interactive elements allowed for dynamic exploration of data subsets.
 - **Data Storytelling:** Crafted the dashboard to tell a coherent story, allowing stakeholders to seamlessly navigate through different aspects of coffee sales, from temporal trends to customer preferences.
+
+![1](./assets/images/coffeedashboard.png)
 
 ## Conclusion
 This Excel dashboard serves as a powerful tool for stakeholders to grasp nuanced insights into coffee sales. By visually representing sales trends, regional preferences, and customer behavior, it enables data-driven decision-making for marketing strategies, inventory management, and customer engagement initiatives in the coffee business. The project's use of Excel's functionalities demonstrates the potential for leveraging familiar tools to derive actionable insights from complex datasets.
