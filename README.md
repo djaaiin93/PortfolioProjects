@@ -3,7 +3,7 @@
 ## [Coffee Sales Analysis with Microsoft Excel](./CoffeeSales.md)
 [<img src="./assets/images/coffee.jpg" width="150" />](./CoffeeSales.md)
   
-###[Link to Excel Dashboard](https://georgiancollege-my.sharepoint.com/personal/200552672_student_georgianc_on_ca/_layouts/15/Doc.aspx?sourcedoc={dc3b9a04-9b9f-40c7-a4dd-3bb4dce2295b}&action=embedview&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
+### [Link to Excel Dashboard](https://georgiancollege-my.sharepoint.com/personal/200552672_student_georgianc_on_ca/_layouts/15/Doc.aspx?sourcedoc={dc3b9a04-9b9f-40c7-a4dd-3bb4dce2295b}&action=embedview&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
 
 ### Objective
 This project revolves around analyzing a comprehensive dataset comprising customer transactions, including order details, product specifics, and customer profiles. The primary objective is to leverage data visualization techniques to investigate the relationship between customer loyalty, purchase sizes, and their impact on overall sales dynamics.
