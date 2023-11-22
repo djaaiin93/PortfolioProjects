@@ -11,13 +11,13 @@ I started by importing a dataset into Excel, containing information about orders
 ## Data Quality Check and Visualization
 I conducted a thorough check for duplicates within the dataset, ensuring data integrity and accuracy. Moving to visualization, I employed Excel's powerful pivot tables to generate meaningful insights:
 
-1. **Year and Month vs. Coffee Type Sales:**  
+1. **Sales Trend Over Time:**  
    I prepared pivot tables showcasing sales trends based on different coffee types over months and years, allowing for a comprehensive understanding of seasonal variations and popularity trends.
 
 2. **Country and Roast Type vs. Sales:**  
    Another pivot table visualized sales based on the country of purchase and the type of roast, providing insights into regional preferences and roast popularity.
 
-3. **Loyalty Card and Size vs. Average Sales:**  
+3. **Customer Loyalty vs. Average Sales:**  
    A pivot table highlighted the relationship between loyalty card usage, coffee size, and average sales, offering insights into customer behavior and preferences.
 
 ## Dashboard Creation
