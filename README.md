@@ -40,7 +40,7 @@ Certainly! Here's the Medication Risks project formatted for your GitHub README 
 ---
 
 ## [Medication Risks Project](./MedicationAdverseEffects.md)
-[<img src="./assets/images/Employee-Absenteeism.jpg" width="150" />](./MedicationAdverseEffects.md)
+[<img src="./assets/images/AdverseEffects.png" width="150" />](./MedicationAdverseEffects.md)
 ### [Link to Tableau Dashboard](https://public.tableau.com/app/profile/divyansh.jain6314/viz/AstoryaboutadverseeffectsofdrugsinCanada/AdverseEffectsofDrugsStory?publish=yes)
 
 ### Central Challenge:
