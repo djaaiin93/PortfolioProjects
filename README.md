@@ -41,7 +41,7 @@ Certainly! Here's the Medication Risks project formatted for your GitHub README 
 
 ## Medication Risks Project(./MedicationAdverseEffects.md)
 [<img src="./assets/images/Employee-Absenteeism.jpg" width="150" />](./MedicationAdverseEffects.md)
-### Link to Tableau Dashboard(https://public.tableau.com/app/profile/divyansh.jain6314/viz/AstoryaboutadverseeffectsofdrugsinCanada/AdverseEffectsofDrugsStory?publish=yes)
+### [Link to Tableau Dashboard](https://public.tableau.com/app/profile/divyansh.jain6314/viz/AstoryaboutadverseeffectsofdrugsinCanada/AdverseEffectsofDrugsStory?publish=yes)
 
 ### Central Challenge:
 Understanding and analyzing adverse drug reactions in Canada over the years to uncover critical patterns and provide valuable insights for healthcare professionals and researchers.
