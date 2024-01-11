@@ -7,6 +7,8 @@ The Tableau story "Charting Medication Risks: Canada's Adverse Effects Data" is 
 
 ### 1. Snapshot of Drug Reactions: The 50 Most Serious Cases
 - **Description:** A visual overview of the 50 most serious adverse drug reactions in Canada, highlighting significant incidents and case studies.
+- Word Cloud Visualization:
+Created a word cloud showcasing the top 50 adverse reactions by reaction count, offering a quick and intuitive overview of prevalent drug risks.
 ![1](./assets/images/1.SnapshotOfReactions.png)
 ### 2. Drug Efficacy and Adverse Event Profile
 - **Description:** A methodical table categorizing reported incidents as 'serious' or 'non-serious,' complemented by a bar chart visualizing incidents for each drug reaction.
