@@ -33,3 +33,40 @@ The logistic regression model is trained on the training set and evaluated on th
 **Results**   
 This analytical strategy allows for a comprehensive exploration of the dataset, feature engineering to enhance model performance, and the application of a logistic regression model to predict absenteeism based on known reasons. The outcome is a practical tool that organizations can utilize to gain insights into potential excessive absenteeism and make informed decisions for workforce planning and management.    
 By visualizing the age-related trends, reasons for absence, and the relationship between transportation expenses and children, the Tableau dashboard effectively communicates the project's key findings. It empowers users to interactively explore and grasp the insights derived from the absenteeism prediction model, fostering a better understanding of absenteeism patterns within the dataset and their implications for workforce management.
+
+
+Certainly! Here's the Medication Risks project formatted for your GitHub README page:
+
+---
+
+## Medication Risks Project(./MedicationAdverseEffects.md)
+[<img src="./assets/images/Employee-Absenteeism.jpg" width="150" />](./MedicationAdverseEffects.md)
+### Link to Tableau Dashboard(https://public.tableau.com/app/profile/divyansh.jain6314/viz/AstoryaboutadverseeffectsofdrugsinCanada/AdverseEffectsofDrugsStory?publish=yes)
+
+### Central Challenge:
+Understanding and analyzing adverse drug reactions in Canada over the years to uncover critical patterns and provide valuable insights for healthcare professionals and researchers.
+
+### Analytical Strategy:
+1. **Word Cloud Visualization:**
+   - Created a word cloud showcasing the top 50 adverse reactions by reaction count, offering a quick and intuitive overview of prevalent drug risks.
+
+2. **Age-wise Analysis:**
+   - Implemented age-wise analysis with bins in 10-year increments.
+   - Unveiled distinct patterns, highlighting higher adverse reactions for individuals in the 40-50 and 50-60 age groups.
+   - Visualized the top 5 adverse reactions for each age category, providing a detailed exploration of demographic-specific risks.
+
+3. **BMI and Weight Categorization:**
+   - Developed a comprehensive BMI categorization system based on height and weight.
+   - Incorporated gender details for a nuanced understanding of adverse reactions in different weight categories.
+   - Visualized the top 5 adverse reactions for each BMI and weight category, adding depth to the analysis.
+
+### Results:
+- **Insightful Visualizations:**
+  - Created compelling visuals, including word clouds, bar charts, and line charts, offering clear insights into adverse drug reactions.
+  
+- **Demographic-specific Trends:**
+  - Uncovered age-specific patterns, emphasizing heightened risks in the 40-50 and 50-60 age groups.
+  - Revealed correlations between adverse reactions, BMI categories, and gender, contributing to a comprehensive understanding.
+
+- **Accessible Exploration:**
+  - Made the project accessible and user-friendly for healthcare professionals and researchers to explore and derive actionable insights.
