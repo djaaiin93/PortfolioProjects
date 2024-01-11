@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Portfolio Projects
 
 ## [Coffee Sales Analysis with Microsoft Excel](./CoffeeSales.md)
 [<img src="./assets/images/coffee.jpg" width="150" />](./CoffeeSales.md)
