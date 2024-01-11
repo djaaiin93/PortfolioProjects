@@ -18,6 +18,7 @@ Created a word cloud showcasing the top 50 adverse reactions by reaction count, 
 ![3](./assets/images/3.ActiveIngredients.png)
 ### 4. Age-Wise Analysis: Top 5 Adverse Drug Effects
 - **Description:** A bar chart displaying the frequency of top five drug reactions across age groups, providing insights into age-specific trends.
+- Implemented age-wise analysis with bins in 10-year increments.
 ![4](./assets/images/4.Age.png)
 ### 5. Dissecting Drug Reactions by Gender
 - **Description:** A bar chart illustrating adverse reactions for various drugs with a gender-specific analysis integrated into each bar, highlighting potential gender-based differences in drug efficacy and safety.
